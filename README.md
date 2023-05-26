@@ -24,10 +24,10 @@ This project was designed to train HTML, CSS and JavaScript in the purest possib
 ## 👨‍💻 Desenvolvimento / Development
 🇧🇷 PT-BR
 
-Este projeto foi desenvolvido por [Clécio Pinheiro]() para fins estudantis.
+Este projeto foi desenvolvido por [Clécio Pinheiro](https://www.linkedin.com/in/cleciopinheirodev/) para fins estudantis.
 
 <br>
 
 🇺🇸 EN
 
-This project was developed by [Clécio Pinheiro]() for student purposes.
+This project was developed by [Clécio Pinheiro](https://www.linkedin.com/in/cleciopinheirodev/) for student purposes.
